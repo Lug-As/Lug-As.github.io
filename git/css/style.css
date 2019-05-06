@@ -1,0 +1,137 @@
+.container-fluid {
+  padding: 0;
+  background-color: #FFFCE8;
+  overflow-x: hidden;
+}
+.preview {
+  padding: 0;
+}
+.preview-img {
+  width: 100%;
+}
+.top-pan {
+  position: absolute;
+  background-color: rgba(171, 171, 171, 0.72);
+}
+.top-pan h3 {
+  padding-left: 76.5px;
+  font-size: 46px;
+  font-family: Times New Roman, serif;
+  color: #3c2a08;
+  font-weight: 700;
+  text-shadow: #fffce8 1px 1px 0, #fffce8 -1px -1px 0, #fffce8 -1px 1px 0, #fffce8 1px -1px 0;
+}
+.headerback {
+  position: absolute;
+  top: 35%;
+  background-color: rgba(153, 153, 153, 0.75);
+  border-radius: 20px;
+}
+h1 {
+  position: relative;
+  text-align: center;
+  font-size: 80px;
+  color: #FFFCE8;
+}
+.container {
+  padding-top: 50px;
+}
+.main {
+  display: inline-block;
+  padding-bottom: 30px;
+}
+.main img {
+  position: relative;
+  width: 97%;
+  border: 1px solid silver;
+}
+.side-pan {
+  display: inline-block;
+}
+.self {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  padding-top: 10px;
+}
+.self h2 {
+  text-align: center;
+}
+.self p {
+  margin: 10px 0 25px 0;
+  font-size: 16px;
+}
+.self h4 {
+  text-align: center;
+  margin: 15px;
+}
+h2 {
+  margin: 30px 0 30px 0;
+}
+h2:first-child {
+  margin-top: 0;
+}
+.para {
+  font-size: 18px;
+}
+.img-block {
+  padding: 0;
+}
+.ref {
+  display: block;
+  color: black;
+  text-decoration: none;
+  font-size: 18.7px;
+}
+.ref:hover,
+.ref:active {
+  color: #333;
+  text-decoration: none;
+}
+.ref:vizited,
+.ref:link {
+  text-decoration: none;
+}
+.last-ph {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.aut-ph {
+  width: 250px;
+  border-radius: 125px;
+}
+.footer {
+  width: 100%;
+  border-top: 1px solid #333;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.footer p {
+  text-align: center;
+  margin: 0;
+  font-size: 19px;
+}
+.footer span {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+}
+.last-txt {
+  font-family: Times New Roman, serif;
+  font-size: 22px;
+}
+.vk {
+  color: #0E5EB2;
+  font-size: 22px;
+}
+.vk:hover {
+  text-decoration: none;
+  color: #001CA7;
+}
+.inst {
+  color: #C13584;
+  font-size: 22px;
+}
+.inst:hover {
+  text-decoration: none;
+  color: #F7008B;
+}
